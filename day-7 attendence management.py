@@ -1,4 +1,4 @@
-"""#get number of students in the class
+#get number of students in the class
 n=int(input("Enter number of students in the class:"))
 present_count = 0
 absent_count = 0
@@ -16,7 +16,7 @@ print("Total student in the class:",n)
 print("number of student present:", present_count)
 print("number of students absent:", absent_count)
 percentage =(present_count/n)*100
-print("attendence report:",percentage)"""
+print("attendence report:",percentage)
  
 
  #get number of students in the class
@@ -41,3 +41,4 @@ print("number of student present:", present_count)
 print("number of students absent:", absent_count)
 percentage =(present_count/n)*100
 print("attendence report:",percentage)
+
